@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\compuland\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RealEstate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RealEstate.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\assets\\images\\3840ae18-6647-4a7c-9ee2-6a4144409e99.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3840ae18-6647-4a7c-9ee2-6a4144409e99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\assets\\images\\4f917ff6-77a2-4b3f-811d-c7bac5d889a6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\4f917ff6-77a2-4b3f-811d-c7bac5d889a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\assets\\images\\6bbcf3c4-e004-4019-beb3-f40d51561b00.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6bbcf3c4-e004-4019-beb3-f40d51561b00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\1430158358637.jpeg",
+      "PackagePath": "staticwebassets\\imges\\1430158358637.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\Arizona home swimming pool.jpg",
+      "PackagePath": "staticwebassets\\imges\\Arizona home swimming pool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\Sobha-Legacy-Lifestyle.jpg",
+      "PackagePath": "staticwebassets\\imges\\Sobha-Legacy-Lifestyle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\b94890cc-53d4-4003-880b-e511a1bcacb7_tiareII-1121_5143_villa1_3600.jpg",
+      "PackagePath": "staticwebassets\\imges\\b94890cc-53d4-4003-880b-e511a1bcacb7_tiareII-1121_5143_villa1_3600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\background-header.jpg",
+      "PackagePath": "staticwebassets\\imges\\background-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\f75ddb4f29dc12581a61c38241a8958e.jpg",
+      "PackagePath": "staticwebassets\\imges\\f75ddb4f29dc12581a61c38241a8958e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\royal-palm-villas-8-1-1032x746.jpg",
+      "PackagePath": "staticwebassets\\imges\\royal-palm-villas-8-1-1032x746.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\imges\\w1024.jpg",
+      "PackagePath": "staticwebassets\\imges\\w1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\bootstrap.min(1).css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.min(1).css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\bootstrap.min(2).css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\bootstrap.min(2).css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\compuland\\source\\repos\\RealEstate\\RealEstate\\wwwroot\\lib\\jquery\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\popper.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RealEstate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RealEstate.props",
+      "PackagePath": "build\\RealEstate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RealEstate.props",
+      "PackagePath": "buildMultiTargeting\\RealEstate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RealEstate.props",
+      "PackagePath": "buildTransitive\\RealEstate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

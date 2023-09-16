@@ -1,0 +1,48 @@
+﻿@model RealState
+@{
+    ViewData["Title"] = "Details REal State "+Model.Id;
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="project-info-box mt-0">
+                  <h5>Department DETAILS</h5>
+                <p class ="mb-0"> @Model.Description</p>
+            </div><!-- / project-info-box -->
+
+            <div class="project-info-box">
+               
+                <p><b>Rent Or Sale:</b> @Model.RentOrSale.Name</p>
+                <p><b>Address:</b> @Model.Address</p>
+                <p><b>Price:</b> @Model.Price <i class="bi bi-currency-dollar"></i></p>
+                
+            </div><!-- / project-info-box -->
+
+            <div class="project-info-box mt-0 mb-0">
+                <p class="mb-0">
+                    <span class="fw-bold mr-10 va-middle hide-mobile">Share:</span>
+                    <a href="#x" class="btn btn-xs btn-facebook btn-circle btn-icon mr-5 mb-0"><i class="bi bi-facebook"></i></a>
+                    <a href="#x" class="btn btn-xs btn-twitter btn-circle btn-icon mr-5 mb-0"><i class="bi bi-twitter"></i></a>
+                    <a href="#x" class="btn btn-xs btn-pinterest btn-circle btn-icon mr-5 mb-0"><i class="bi bi-pinterest"></i></a>
+                    <a href="#x" class="btn btn-xs btn-linkedin btn-circle btn-icon mr-5 mb-0"><i class="bi bi-linkedin"></i></a>
+                </p>
+            </div><!-- / project-info-box -->
+        </div><!-- / column -->
+
+        <div class="col-md-7">
+            <img src="~/assets/images/@Model.Image" alt="project-image" class="rounded" />
+            <div class="project-info-box">
+                <p><b>Categories:</b> @Model.category.Name</p>
+                <a style="font-size:30px" asp-action="Index"> <i class="bi bi-skip-backward-circle btn btn-primary"></i></a>
+                <a download="@Model.Image" style="width:fit-content;margin-bottom:15px" ;" href="~/assets/images/@Model.Image" class="btn btn-primary mt-2"><i class="bi bi-cloud-arrow-down"></i> Download Image</a>
+            </div><!-- / project-info-box -->
+        </div><!-- / column -->
+    </div>
+</div>
+       
+
+    <br />
+
+    
+    
